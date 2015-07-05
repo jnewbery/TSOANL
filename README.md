@@ -20,9 +20,9 @@ Copyright is held by the estate of Admiral Sir Hugh Tweedie.
 
 ###Conversion to epub
 
-- We should use [http://pandoc.org/](Pandoc) to convert the markdown to epub. I haven't tried this yet.
-- I should use a git pre-upgrade hook to make sure the epub version is at least as new as the markdown version
+- We should use [http://pandoc.org/](Pandoc) or [markdown-to-ebook](https://github.com/k2052/markdown-to-ebook) to convert the markdown to epub. I haven't tried this yet.
+- I should use a git pre-upgrade hook to make sure the epub version is at least as new as the markdown version. I haven't implemented this yet.
 
 ###Verions
 
-- Use github Releases for epub version releases.
+- Use github Releases for epub version releases. I haven't done this yet.
