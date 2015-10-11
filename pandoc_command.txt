@@ -1,0 +1,1 @@
+pandoc -s -t epub3 -o TSOANL.epub --toc --toc-depth=1 ../md/ch0.md ../md/ch1.md ../md/ch2.md ../md/ch3.md ../md/ch4.md

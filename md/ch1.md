@@ -1,6 +1,6 @@
-### CHAPTER 1 
+# CHAPTER I
 
-## THE STORY OF A NAVAL LIFE 
+#### THE STORY OF A NAVAL LIFE
 
 Some few years ago there appeared an article in *The Times* headed "The Extinct Tweedie Family". The family are not extinct; in almost every Dominion of the Empire I have met or heard of families bearing the name and tracing descent from the same family who for so many generations dwelt on the banks of the Tweed. The first authentic mention of the family dates 1115, but legend goes back much further and legend gives the story of the Spirit of the Tweed, becoming enamoured of a fair lady walking by Tweed Pool. A son was born and appears first as John of the Tweed, then Tueda and so Tweedie.
 
