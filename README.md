@@ -12,17 +12,11 @@ Copyright is held by the estate of Admiral Sir Hugh Tweedie.
 
 ###Current progress
 
-- ch1.p11-ch1.p13 have been scanned
-- ch1.p11 has been OCR'ed
-- ch1.p11 has been tidied to .txt
-- no pages have been converted to markdown
-- no pages have been converted to epub
+- ch1-4 have been scanned, OCR'ed, tidied to text, converted to MD and converted to epub.
+- ch5 has been scanned
 
 ###Conversion to epub
 
-- We should use [Pandoc](http://pandoc.org/) or [markdown-to-ebook](https://github.com/k2052/markdown-to-ebook) to convert the markdown to epub. I haven't tried this yet.
+- I use [Pandoc](http://pandoc.org/) to convert the markdown to epub.
+- There may be some post-pandoc tidy-up to do. I won't do that until I've completely finished scanning/tidying/collating the book.
 - I should use a git pre-upgrade hook to make sure the epub version is at least as new as the markdown version. I haven't implemented this yet.
-
-###Verions
-
-- Use github Releases for epub version releases. I haven't done this yet.
