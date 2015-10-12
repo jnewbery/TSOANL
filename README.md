@@ -18,5 +18,11 @@ Copyright is held by the estate of Admiral Sir Hugh Tweedie.
 ###Conversion to epub
 
 - I use [Pandoc](http://pandoc.org/) to convert the markdown to epub.
+- The command I use is:
+
+```
+pandoc -s -t epub3 -o TSOANL.epub --toc --toc-depth=1 `ls ../md/ch*`
+```
+
 - There may be some post-pandoc tidy-up to do. I won't do that until I've completely finished scanning/tidying/collating the book.
 - I should use a git pre-upgrade hook to make sure the epub version is at least as new as the markdown version. I haven't implemented this yet.
