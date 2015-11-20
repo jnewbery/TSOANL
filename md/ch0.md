@@ -8,4 +8,5 @@ creator:
 cover-image: ../img/cover-image.jpg
 ---
 ![portrait](../img/portrait.jpg)
+![front-page](../img/front-page.jpg)
 ![dedication](../img/dedication.jpg)

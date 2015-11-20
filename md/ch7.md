@@ -2,6 +2,8 @@
 
 ####CHINA AGAIN
 
+![](../img/ch7_WeiHaiWei.jpg)
+
 Towards the end of my time at Dartmouth, I had a letter from Consett, about to commission the *King Alfred* as commander, that ship being designated as the new flagship in China, flying the flag of Sir Arthur Moore.
 
 The essence of the letter was to ask if I would like to come to the ship, as Sir Arthur had mentioned my name as suitable. I was delighted, but Goodenough, then captain at Dartmouth, said no, I must finish my term of cadets who had one more term to go. Sir Arthur very kindly said he would arrange to have the appointment kept open and I was to join up as soon as I was set free from Dartmouth.

@@ -2,6 +2,8 @@
 
 ####I BECOME A PHYSICAL TRAINING EXPERT
 
+![](../img/ch6_PTClass.jpg)
+
 Becoming a physical training expert, in the early days of such people in the service, subjected one to much chaff from all sides, we were dubbed acrobats, ju-ju men, strong men, or any name which the wit of the individual seemed to think appropriate. To tell any one who has not been through the course, or studied the subject, that there was a great deal in it was, and is still, a waste of breath. Having once learnt and observed the too-often deplorable effects of so called physical drill carried out in most schools and colleges, and the great shortage of even semi-skilled instructors throughout the country, the Admiralty must be congratulated in so early seeing, what only now the nation is beginning to see, that organized physical training is essential in these mechanized days, and wholesale gravitation of the population to the towns and sedentary occupations.
 
 We four of us, who had been serving abroad, joined up with four other lieutenants, who had already started, having been more immediately available. We were attached at first to the Grenadier Guards, a rather difficult mess to join as they had just been through some sort of trouble, which the Press had got hold of, the Colonel had recently been relieved and a good many of the subalterns were more or less under a cloud, it was some sort of ragging business which seemed very trivial to us sailors but had been made a serious business by publicity.
