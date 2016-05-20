@@ -1,0 +1,70 @@
+#CHAPTER III
+
+####MASTS AND YARDS
+
+So to join the Active at Portsmouth, an overgrown and disgruntled midshipman, and duly reported myself to the first lieutenant, Ethelston by name, who was later on killed at Ladysmith.
+
+It was a beastly wet morning and they were swaying up half the maintop, the whole deck seemed to me a tangle of ropes and heaving men. The snottie of the watch pointed to the hatch and with one word, “Gunroom”, passed on his way, so down I went and found a few of my future messmates, some just joined and some returned from leave. It wasn’t exactly a home from home -- the *Active’s* gunroom -- but from scraps of conversation I gathered we were off in a few days; to-morrow the new batch of ordinary seamen would join and the cruise was hell. Had I been a little more strong-minded I think I should have cut and run, instead I went on deck and got my gear, ny that time standing in a pool of water on the jetty strunk down below. Asking what all the fuss was about it appeared that in a blow in the West Indies on the last cruise, the maintop had been strained, a new one had just been supplied and the who halves were in process of being sent aloft and bolted together.
+
+Eventually we slipped from the Southern Railway jetty, made plain sail and sailed out of harbour with a fair wind, I believe the last square-rigged ship to do so. We were bound for iceland and the north but calling at the Channel Islands -- my first visit to Alderney, Guernsey and Jersey, June 1896. 
+
+I was midshipman of the fore crosstrees; the weather, I see by my journal, was squally and wet and we seemed to be making or shortening sail every half-hour or so, as each time this occurred meant my running aloft and down again there was no lack of exercise.
+
+Going into Guernsey the *Volage* in company took the ground but quickly refloated.
+
+On the 15th of June we weighed for Iceland, and as soon as we were clear, hoisted the propeller and made plain sail. The propeller in that ship was fitted into what was called a banjo frame and was hoisted up into a well in the counter of the ship. The banjo frame and propeller were a considerable weight and special fourfold purchases were supplied, which went the whole length of the ship. The falls being married and taken to the capstan on the fo'c'sle with fiddler on top and the whole ship's company heaving round.
+
+It was a fourteen-day trip from Guernsey to Reykjavik. We had a hardish blow off the Fastnet and as an illustration of communication at sea then, I note that at midnight of the 22nd, we dropped a cask with the words “T.S. passed rendezvous, midnight 22nd”, this for the information of *Volage* which ship had lost touch the night before. At Reykjavik I nearly got into serious trouble. I had sailed the cutter ashore in the afternoon on some errand, it was blowing very hard with a rising sea. We got in all right, but before we got there the ship had hoisted a signal to remain on shore until weather moderated. It would in any case have been impossible to launch the boat, so there we were, pretty wet and very cold. I hauled the boat up and gave the crew leave to find what shelter they could, and be back on the beach at four o’clock in the morning.
+
+Reassembled we found the wind had gone down, and so had the tide some forty or fifty yardsm and it was a case of a heavy drag. Looking on at the operation was one who I fear being described as a beachcomber of sorts, and I asked him quite fairly politely to give a hand, at which he snorted a bit, and I rather naturally said “If you're too something good,
+something well don't”, more snorts and he moved off. Once more on board and tidied up a bit, I was met by a grinning signal midshipman with a slate, all signals were written down at that time on slates. On the slate was a signal from the captain of the ----- to the commander, which read: “I have been grossly insulted on shore by a midshipman of the *Active*.” “Just going to show it to the old man, suppose you realize you're the only “wart' that's been ashore.” “Well” I said, “I haven't seen or spoken to anything like a post captain,” and this I was inclined to stick to, when I eventually had to toe the line, until I described my beachcomber friend, and then the fat was in the fire. My description fitted, and no one appeared to have any doubts. Out round jacket, on deck, and solemnly on board to apologize; true, my language had not been nice, it was the language of the gunroom, and not only the gunroom of those days. Still, officially, it was not nearly correct, and addressed to a post captain, even if he was disguised, took a lot of getting over and I was told so in no unmeasured terms.
+
+After visits to OE Fiord and other fiords on the north coast of Iceland, at that time busy whaling stations, which you could smell miles away, and steaming up a fiord with decomposing carcases of whales on either side, proved a strong emetic to many.
+
+In Iceland, most of us tasted the joys of salmon and trout fishing, both so plentiful in the more out-of-the-way streams as to let the veriest beginners catch them, of golden plover, curlew, and duck of various sorts; we shot manu, and we fished and shot unashamedly for the pot. We were very fit, hard worked, laying out on a yard and wrestling with a half-frozen sail a good many times day and night, brought on an exceeding good appetite and there was not overmuch to stay it with. Training-squadron gunrooms had not nie reputations and although we had induced two unfortunates to embark at Portsmouth as messman and pantryman, they both had bolted in Guernsey and since then we had, so to speak, lived on ourselves. Each day we took cook of the mess in turns, and the cook of the day was the centre of the vilest abuse to which he was quite impervious. One of the drawbacks of the training-squadron gunrooms was, we were all the same seniority and all senior midshipmen, so there was no one who could be lawfully kicked and told to see about it.
+
+Each midshipman in the gunroom had a locker and into this locker was stowed eatables, fish, birds, or eatables bought on shore. Often individuals got overstocked, in say, the fish course, but nothing would induce them to part till the last moment. Mason, my friend, of the *Hawke*, had infallible recipes for cooking curlew, which entailed stuffing the bird with onions and vinegar, and above all keeping it many days.
+
+On top of this, we had combined together to buy a cask of beer at Portsmouth, and as there was no gunroom storeroom it was therefore stowed under the gunroom table, and as it was no one's job to lash it, the first blow it got bilged, and so pervading everything in that delightful gunroom was the ever-present smell of stale beer.
+
+It was the custom in sailing ships at seven bells at sea to reset sail, shorten sail or do any likely jobs aloft, in order that the men should not if possible be disturbed during the dinner hour. In harbour, the pipe was: “Mend the furl”.
+
+According to the weather these jobs varied, but usually the pipe “Down from aloft” went immediately befor pipe “Dinner”. This meant a minute or two more for the midshipman to look around and see everything was in order before he slid down and made for the gunroom, to find he was just a minute or two late and although he might get a bit of salters (beef or pork) all the trimmings, if there were any, or figgy duff on Thursdays, was gone.
+
+From Iceland we sailed away to Jan Maynesland, where some investigation had to be made about a supposed wreck, and I believe some skeletons were found. By this time we were near about the ice belt and the following extract from the log shows something of the daily life.
+
+> July 27th. a.m. Close-hauled plain sail in royals, in top gallant sail, reefed topsail.  
+> p.m. Wind dropped, ran into fog. Made sail. Lost sight of *Champion*. Fired guns to attract *Champion*. Veered away. Set staysails. A.B. Wallis fell from aloft, broke both legs and fractured thigh.
+
+Leaving Jan Maynesland we stood away for Hammerfest, making a wonderful passage with half a gale on the quarter.
+
+Running into Hammerfest, up on the fore crosstrees with a hard wind behind us, it looked to me we must crash on the rocks, but it was beautifully judged and she spun round the wind with the spanker full and the headsails down, till she felt the weight of the topsail aback and came to under the lee of the breakwater.
+
+From Hammerfest we sailed round the North Cape to witness and help the astronomers of Europe in their scientific record of a total eclipse of the sun.
+
+We had the misfortune on this trip to lose one of our messmates, a midshipmen, who was killed falling from aloft. We buried him in Wadso, and if he had a lonely grave he had a distinguished gathering of scientists as witnesses including the famous Madame Curie of France.
+
+The eclipse itself was memorable, as an eclipse always must be in a country and season where perpetual daylight has been in force for some months.
+
+From the top of the hills where we were, you could see the edge of the shadow advancing for miles away until for two minutes there was complete darkness.
+
+Leaving Wadso, the rest of the cruise was uneventful, or at least similar, varied by good weather and bad. We called at Trondheim, Bergen, Lerwick and down the North Sea to Spithead to change crews for the next cruise. Leaving Spithead I see we were ten days to Gibraltar and then on to Madeira and Las Palmas and round the Islands, on the whole good cruising with fair weather and strong and medium wind. We were nearly caught at Santa Cruz, in Teneriffe, on a Sunday afternoon. It came on to blow hard on shore, a good many officers and men were ashore, but it was decided we must get out. Steam was raised hurriedly to give us a push off the land, and the screw lowered. Steam ready, the anchor was weighed and full speed ahead ordered, but something had gone wrong with the works, the locking piece which held the screw in position was not right home and each time the propeller went round it hit the obstruction a tremendous blow which shook the ship, but it was blowing hard now and necessary at all costs to cast the ship, so with a series of bumps and crashes we pushed out. In the foretop even, we could feel the bumps and thought we were already ashore, However, up went the headsails and we soon got the order to let fall the foretopsail. The bumps ceased and we sailed away. Then began a long and trying Sunday evening, the screw had to be hoisted up, a clear lower-deck job to be done with the best part of a watch ashore, then sail to be shortened and the ship hove-to for the night.
+
+Going into Gando Bay I was put aboard the *Volage* for the first part of my seamanship exam, and completing the the second day at anchor we left for home in the old *Wye*, an
+admiralty storeship of some 200 tons pretty nearly on her last legs.
+
+She gave us a good fright in the Bay, being hove-to for some three days, and I think most on board thought we were for the bottom. Incidentally the *Wye* was commanded by one of the last of the masters, labelled at that time, staff commanders, commonly called in the service “staffies”. The second in command was also a “staffe” and these were the only two officers on board, besides a paymaster and a doctor.
+
+We had amongst other stores a cargo of live turtles, the only things that enjoyed the continuously breaking seas on deck. We did well on turtle eggs that trip, as these could always be collected in the tanks each morning.
+
+Arrived in England I went as an acting-sub to Greenwich. I can only say the reaction from the training squadron's life to a stone frigate was a bit heady and too near London.
+
+I wasn't a success at Greenwich. At first I had a fair passage and I thought the naval instructor, old Clarkie, as he was called, made a good deal of me, until one day he called me Pound and I suggested he was mistaken, he had quite a common look of horror on his face. Pount was, of course, the top of the term and class, and the delight of the naval instructor. I don't think Clarkie ever quite forgave me, although there was actually no deception on my part. I quietly lapsed into the also rans and I fear I didn't mind much. I scraped through and passed on to Portsmouth, when again I scraped through with varied success. Greenwich and Portsmouth remain with me mostly in recollection of the many and amusing rugby games, playing either for the College or U.S.
+
+While still at college we went off to the annual manoeuvres and I commissioned the *Virago*, a new destroyer. My captain, Clifton Brown, was going through the gunnery long course. The manœuvre started with the great Jubilee review of 1897.
+
+The weather at Spithead was ideal, besides the English Fleet there were representatives of every nation, and the lines stretched away to Calshot spit-buoy off Southampton. A feature of the review was the appearance of Parsons' *Turbinia*, the first turbine-driven ship and faster than anything then afloat. We did not love her too much, as she came up the lines at full speed, she made a tremendous wash, filling our bunks and wardrooms with water if unluckily a scuttle was left open, or rolling all the crockery off the table should it be laid for a meal.
+
+The Turbinia had, of course, very far-reaching effects on the marine engine and indeed on all engines of the future.
+
+The review over, we joined our Manœuvre Fleet somewhere off the west coast of Ireland. What the plan was that year I don't remember, but there is no doubt these annual manœuvres were of the greatest value to all. It meant a great amount of sea keeping in all weather and apart from tactical value it meant much to every one: six weeks or so on board, no going ashore at all and under war conditions, gave room for every one to settle down to his job, and it would seem that before long annual manoeuvres must be reintroduced, in spite of the present-day high cost of fuel and material of every description.
