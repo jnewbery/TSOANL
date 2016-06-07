@@ -10,7 +10,7 @@ Copyright is held by the estate of Admiral Sir Hugh Tweedie.
 
 ###Current progress
 
-- ch1-15 have been scanned, OCR'ed, tidied to text, converted to MD and converted to epub.
+- ch1-17 have been scanned, OCR'ed, tidied to text, converted to MD and converted to epub.
 
 ###Conversion to epub
 
