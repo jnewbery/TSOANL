@@ -2,18 +2,18 @@ Project to digitise *The Story of a Naval Life* by Admiral Sir Hugh Tweedie.
 
 Copyright is held by the estate of Admiral Sir Hugh Tweedie.
 
-###Directory structure
+### Directory structure
 
 1. Scanned pictures are in the `/img` directory with filenames `p<y>.jpg.` Lighting/alignment should be good and a better quality should be used for the pictures than for the text pages.
 2. Edited and tidied text files are in the `/md` directory with filenames `ch<x>.md`
 5. The epub version of the book is in `/epub`
 
-###Current progress
+### Current progress
 
 - all chapters have been scanned, OCR'ed, tidied to text, converted to MD and converted to epub.
 - there has been no editing or review process.
 
-###Conversion to epub
+### Conversion to epub
 
 - I use [Pandoc](http://pandoc.org/) to convert the markdown to epub.
 - The command I use is:
